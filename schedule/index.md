@@ -7,7 +7,7 @@ This schedule maps out what we are covering in class each week and what work we 
 
 If you want to know what is due for next class check the home page.
 
-### January 24 &mdash; Week 1
+### January 23 &mdash; Week 1
 <!-- In our first week we will go over the framework for the class, meet each other, and make a gif. -->
 
 #### Class
@@ -20,7 +20,7 @@ If you want to know what is due for next class check the home page.
 
 ---
 
-### January 31 &mdash; Week 2
+### January 30 &mdash; Week 2
 <!-- Motion projects take thought and planning to execute well. This week we will cover the process of storyboarding, creating concept boards, and cover other parts of the planning process. We will also show some moving poster examples. -->
 
 #### Class
