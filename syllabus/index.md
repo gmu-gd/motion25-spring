@@ -3,12 +3,12 @@ layout: interior
 title: Syllabus
 ---
 ### General
-This is the course specific syllabus for the _Spring 2024_ class of _AVT 411: Motion Design (3 credits)_. The instructor is _Michael McDermott_, he can be reached by email at _mmcderm8 at gmu dot edu_ and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Monday to Wednesday from 1:15&ndash;2:45pm and 8&ndash;9pm or by appointment.
+This is the course specific syllabus for the _Spring 2025_ class of _AVT 411: Motion Design (3 credits)_. The instructor is _Michael McDermott_, he can be reached by email at _mmcderm8 at gmu dot edu_ and can be met with at his [virtual office hours](https://calendly.com/michaelmcdermott) on Monday to Wednesday from 1:15&ndash;2:45pm and 8&ndash;9pm or by appointment.
 
 [Download a PDF version]({{ site.baseurl }}/assets/files/AVT411-Syllabus-Spring2025.pdf)
 
 ### Delivery and Timing
-We will meet once a week in person on Thursdays from 1:30 to 4:10 in room 1021 in the Art and Design Building. The classes are required and during our sessions we will discuss work, complete demos, and further our coding and design knowledge. The class is scheduled to run for 15 weeks and you can expect to work for 6 hours outside of class each week.
+We will meet once a week in person on Thursdays from 1:30 to 4:10 in room 1021 in the Art and Design Building. The classes are required and during our sessions we will discuss work, complete demos, and further our motion design knowledge. The class is scheduled to run for 15 weeks and you can expect to work for 6 hours outside of class each week.
 
 ### Prerequisites
 AVT 217: Intro to Web Design and AVT 311: Graphic Design Principles and Methods
@@ -44,10 +44,10 @@ This course consists of many shorter exercises, a few longer projects, weekly pr
 #### project 1: moving poster
 Posters are traditionally a static medium but with more and more poster displays going digital and AR becoming a more widely available tool, posters can come alive. You will design a moving poster for a future event that uses AR to transform the printed version into motion.
 
-#### project 2: something in motion 1
+#### project 2: obstructions
 Obstructions in design can seem like a burden but being able to use them as a creative starting point is key. You will create a short video and then create the same video two more times. Each new video will be created using a series of obstructions chosen in class.
 
-#### project 3: something in motion 2
+#### project 3: something in motion
 Project three will give you the option of coming up with your own project or choosing from one of the projects I have listed. The project will be a culmination of the skills and concepts you have learned throughout this course.
 
 ### Discussion of Work
