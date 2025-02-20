@@ -70,7 +70,7 @@ If you want to know what is due for next class check the home page.
 * _Alan Becker Tutorials:_ [12 Principles of Animation](https://www.youtube.com/watch?v=uDqjIdI4bF4)
 * _Adobe:_ [Create Dynamic Movement Between Keyframes with the Graph Editor](https://helpx.adobe.com/after-effects/how-to/adjusting-keyframes-dynamic-movement.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&ref=helpx.adobe.com)
 * _School of Motion:_ [Using the Graph Editor in After Effects](https://www.schoolofmotion.com/blog/graph-editor-after-effects)
-* _School of Motion:_ [Intro to the Graph Editor in After Effects](https://www.schoolofmotion.com/blog/
+* _School of Motion:_ [Intro to the Graph Editor in After Effects](https://www.schoolofmotion.com/blog/)
 
 ---
 
