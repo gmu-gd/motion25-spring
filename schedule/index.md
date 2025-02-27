@@ -106,6 +106,7 @@ intro-to-the-graph-editor-in-after-effects)
 
 #### Digital References
 * _School of Motion:_ [How to Use Masks in After Effects](https://www.schoolofmotion.com/blog/how-to-use-masks-in-after-effects)
+* _School of Motion:_ [How to Use Track Mattes in After Effects](https://www.schoolofmotion.com/blog/how-to-use-track-mattes-after-effects)
 * _School of Motion:_ [Exaggerate Animation with Squash and Stretch](https://www.schoolofmotion.com/blog/squash-and-stretch-quick-tip)
 * _School of Motion:_ [Squash and Stretch in After Effects](https://www.schoolofmotion.com/blog/squash-stretch-after-effects)
 * _Adobe:_ [Animate an Object to Follow Along a Path](https://helpx.adobe.com/after-effects/how-to/animate-along-path.html?playlist=/services/playlist.helpx/products:SG_AFTEREFFECTS_1_1/learn-path:key-techniques/set-header:animating-essentials/playlist:topic/en_us.json&ref=helpx.adobe.com)
